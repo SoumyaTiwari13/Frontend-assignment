@@ -1,12 +1,12 @@
 body {
   font-family: Arial, sans-serif;
-  background: #ffffff;
+  background: #f4f4f9;
   text-align: center;
   padding: 20px;
 }
 
 .box {
-  background: #eae2e2;
+  background: #fff;
   border: 2px solid #ccc;
   border-radius: 8px;
   margin: 15px auto;
@@ -46,7 +46,7 @@ body {
 .size {
   margin: 5px;
   padding: 4px 8px;
-  border: 1px solid #c46060;
-  background: #e9dfdf;
+  border: 1px solid #aaa;
+  background: #eee;
   cursor: pointer;
 }
