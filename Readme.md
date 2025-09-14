@@ -32,3 +32,11 @@ Color & size customization per box
 Clean, responsive design
 
 Lightweight and built from scratch (no libraries/frameworks)
+
+
+
+https://soumyatiwari13.github.io/Frontend-assignment/
+
+##  Live Demo
+🔗 Hosted Page:  https://soumyatiwari13.github.io/Frontend-assignment/
+🔗 Repository: https://github.com/SoumyaTiwari13/Frontend-assignment
